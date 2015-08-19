@@ -3,3 +3,6 @@ Python script for extracting elastic moduli from VASP OUTCAR and calculating som
 Note total elastic tensor is used. 
 
 Note test VASP for convergence of these properties with cutoff energy, they can require a higher than normal cutoff.
+
+TODO:
+Add check to ensure that lattice parameters match IEEE standard
